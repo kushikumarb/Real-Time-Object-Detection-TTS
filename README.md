@@ -19,3 +19,5 @@ cd Real-Time-Object-Detection-TTS
 bash scripts/install_deps.sh
 python src/main.py --model yolov8s.pt --lang spanish
 ```
+## License
+This project is licensed under the [MIT License](LICENSE).
