@@ -1,0 +1,12 @@
+[project]
+name = "object-detection-tts"
+version = "1.0.0"
+dependencies = [
+    "opencv-python>=4.5.0",
+    "ultralytics>=8.0.0",
+    "pyttsx3>=2.90"
+]
+
+[build-system]
+requires = ["setuptools>=42"]
+build-backend = "setuptools.build_meta"
